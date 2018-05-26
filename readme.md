@@ -6,7 +6,7 @@ A Fire is started by a random lighting strike
 
 ## Symbols
 
-' ' - empty cell/ash
-'♣' - Forest cell
-'☼' - Fire cell
-'▒' - Rain
+' ' - empty cell/ash  
+'♣' - Forest cell  
+'☼' - Fire cell  
+'▒' - Rain  
