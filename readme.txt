@@ -1,4 +1,12 @@
 
-Im Ordner R_Auswertung befindet sich die statistische Auswertung der Waldbrandszenarien (einmal mit Regen, und einmal normal ohne Regen)
+# Forest Fire 
 
-Im Ordner abschluss_uebung befinden sich die Javaskripte
+A simple 2d simulation of Forest Fire on a n by n Grid  
+A Fire is started by a random lighting strike
+
+## Symbols
+
+' ' - empty cell/ash
+'♣' - Forest cell
+'☼' - Fire cell
+'▒' - Rain
